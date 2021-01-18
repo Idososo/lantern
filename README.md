@@ -40,3 +40,19 @@ Bookmark this page to download the latest versions in the future.
 
 **Please allow some time for Lantern to complete configurations if installing it for the first-time, love <3**
 
+
+
+
+## 佛跳墙（fotiaoqiang）最新版本下载 Latest version of fotiaoqiang</a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.4.1/fotiaoqiang-v2.4.1-1.apk"> Android </a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.4.0/fotiaoqiang-2.4.0-1-Setup.exe"> Windows </a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.4.0/v240-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS </a>
+- IOS 敬请期待
+
+## 官方网站
+- https://fotiaoqiang.io
+
+
+## <a href="https://github.com/getfotiaoqiang/fotiaoqiang/wiki/FAQ">FAQ</a>
+
+
